@@ -1,6 +1,6 @@
 # page created by textbase.js 🧬
 
-## Created with textbase.js please visit [GitHub repo](https://github.com/al5ina5/textbase).
+## Created with textbase.js please visit [code source](https://github.com/al5ina5/textbase).
 
 
 ```
