@@ -1,4 +1,4 @@
-# Chonker x86 Game
+# Chonker x86 Game 🐹
 
 <p align="center">
   <img src="/img/chonker.jpeg"/>

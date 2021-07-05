@@ -1,4 +1,4 @@
-# Simulation Study: Manufacturing Facility
+# Simulation Study: Manufacturing Facility 🏭
 
 ## Discrete Simulation/Modeling
 

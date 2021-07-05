@@ -1,4 +1,4 @@
-# IMU Sports Monitor Repo
+# IMU Sports Monitor Repo 🏅
 
 ## [Full Repo HERE](https://github.com/1brahimsaid)
 

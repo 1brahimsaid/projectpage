@@ -1,4 +1,4 @@
-# Flappy Bird with EMG-Controlled Mouse
+# Flappy Bird with EMG-Controlled Mouse 🐦
 
 
 <p align="center">
