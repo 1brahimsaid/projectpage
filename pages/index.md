@@ -10,9 +10,9 @@
 3. Simulation Study: Manufacturing Facility
 4. Chonker x86 Assembly Game
 5. Flappy Bird with EMG-Controlled Mouse
-6. How to Create an Easy DC Motor
+6. How to Create Your Own DC Motor
 
-...or go back the creators [`website`](https://www.ibrahimsaid.ca/) or [`github`](https://github.com/1brahimsaid).
+...or go back to [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/) or [`github/1brahimsaid`](https://github.com/1brahimsaid).
 
 This project repo was built using [`textbase.js`](https://github.com/al5ina5/textbase).
 
