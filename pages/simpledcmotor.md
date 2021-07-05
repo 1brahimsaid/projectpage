@@ -8,14 +8,10 @@
 ## Table of Contents
 
 1. **What is it?**  
-2. **Reports**  
-3. **Code** 
-4. **Project Management** 
-5. **Presentation Files** 
-6. **Data and Tests**
-7. **Research and Links** 
-8. **Technical Requirements** 
-9. **Images and Video**
+2. **How?**  
+3. **Youtube Demonstration** 
+4. **Materials** 
+5. **Instructions** 
 
 ## What is it?
 
@@ -52,6 +48,6 @@ _Please Click to Proceed to the Video_
 1. Wind 20 **AWG magnet wire** around a small cylindrical object
 2. Using a razor blade, strip ONLY the **TOP** surface of the wire. Be sure not to strip the sides or the bottom, just the top!
 3. Strip the other straight section of wire completely – **top, bottom and sides.**
-4. Assemble the DC Motor, use paperclips to prop up the rotor and attach the batteries to each end of the paperclips.
-  1. Using thumbtacks, secure the paperclips to the wooden base. Secure one paperclip at each end of the magnet.
-  2. Adjust the magnet and/or supports to get the Motor working.
+4. Assemble the **DC Motor**, use **paperclips** to prop up the rotor and attach the batteries to each end of the **paperclips**.
+  1. Using thumbtacks, secure the **paperclips** to the wooden base. Secure one paperclip at each end of the **magnet**.
+  2. Adjust the **magnet** and/or supports to get the **Motor** working.
