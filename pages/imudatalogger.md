@@ -1,5 +1,6 @@
 # IMU Sports Monitor Repo
 
+## [Full Repo HERE](https://github.com/1brahimsaid)
 
 <p align="center">
   <img src="/img/Aspose.Words.683b0c1f-4907-4142-a98b-40bf5d2dcf74.002.jpeg"/>
@@ -21,7 +22,7 @@
 
 [![Demonstration](http://img.youtube.com/vi/I2n_vJK3DQo/0.jpg)](http://www.youtube.com/watch?v=I2n_vJK3DQo)
 
-_Click to Proceed to the Video_
+> _Click to Proceed to the Video_
 
 This repository contains all the information required to replicate and continue this project. Explanation for the folders that require it follow. 
 

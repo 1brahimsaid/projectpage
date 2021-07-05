@@ -32,7 +32,7 @@ Motors convert electrical energy (from a voltage source) into mechanical energy.
 
 [![Demonstration](http://img.youtube.com/vi/bWQ8JH-RxlY/0.jpg)](http://www.youtube.com/watch?v=bWQ8JH-RxlY)
 
-_Click to Proceed to the Video_
+> _Click to Proceed to the Video_
 
 ## Materials
 
