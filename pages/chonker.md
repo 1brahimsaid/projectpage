@@ -30,6 +30,8 @@ Not all coding is fun and cool, here is a clip of this game failing 😂 The rea
 
 [![Frustration](http://img.youtube.com/vi/21oYjKJl1RE/0.jpg)](http://www.youtube.com/watch?v=21oYjKJl1RE)
 
+_Click to Proceed to the Video_
+
 # Full Code
 
 ```asm

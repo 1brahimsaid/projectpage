@@ -8,7 +8,7 @@
 
 ## What is it?
 
-This project is a collabarative effort between the developer of `textbase,js` and I. Created with **React.js**, **Next.js**, and **TailwindCSS**, this site facilitates crypto discussion around the `Fantom Blockchain`. This site accepts **cryptocurrency** through **web3-smartcontract** interaction, the transfer of money is executed by **smart contracts** which are audited for security purposes. A **smart contract** is a self-executing contract with the terms of the agreement between **buyer** and **seller** being directly written into lines of code. This site is a **community forum first** and currently is going through a closed-launch to a small group of users.
+This project is a collabarative effort between the developer of `textbase.js` and I. Created with `React.js`, `Next.js`, and `TailwindCSS`, this site facilitates crypto discussion around the `Fantom Blockchain`. This site accepts **cryptocurrency** through **web3-smartcontract** interaction, the transfer of money is executed by **smart contracts** which are audited for security purposes. A **smart contract** is a self-executing contract with the terms of the agreement between **buyer** and **seller** being directly written into lines of code. This site is a **community forum first** and currently is going through a closed-launch to a small group of users.
 
 # Future plans?
 
