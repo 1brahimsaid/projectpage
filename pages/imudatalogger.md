@@ -54,9 +54,9 @@ This repository contains all the information required to replicate and continue 
 ‘**Requirements**’ contains the in-depth decision making and process behind the selection of parts. Contains the minimum requirements, technical details, and purchase recommendations drafted to meet the goals set out in the proposal. 
 
 <p align="center">
-  <img src="/img/lowlevel.JPG"/>
+  <img src="/img/lowlevel.jpeg"/>
 </p>
 
 <p align="center">
-  <img src="/img/fritz.JPG"/>
+  <img src="/img/fritz.jpeg"/>
 </p>

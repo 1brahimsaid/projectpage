@@ -22,5 +22,5 @@ nSize DW ($ - msg)-1
 ```
 
 <p align="center">
-  <img src="/img/ram.JPG"/>
+  <img src="/img/ram.jpeg"/>
 </p>
