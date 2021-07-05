@@ -17,9 +17,10 @@
 8. **Technical Requirements** 
 9. **Images and Video**
 
-### Demonstration
+### Youtube Demonstration
 
 [![Demonstration](http://img.youtube.com/vi/I2n_vJK3DQo/0.jpg)](http://www.youtube.com/watch?v=I2n_vJK3DQo)
+_Please Click to Proceed to the Video_
 
 This repository contains all the information required to replicate and continue this project. Explanation for the folders that require it follow. 
 
