@@ -1,5 +1,5 @@
 
-# Welcome to `projects.ibrahimsaid.ca` 📐
+# Welcome to my `projects` 📐
 
 #### Repos, websites, documentation and anything else.
 
@@ -22,5 +22,5 @@ nSize DW ($ - msg)-1
 ```
 
 <p align="center">
-  <img src="/img/ram.jpg"/>
+  <img src="/ram.jpg"/>
 </p>
