@@ -1,7 +1,7 @@
 
 # Welcome to `my projects` 📐
 
-#### Repos, websites, documentation and anything else.
+#### Repos, websites, documentation and everything else I am working on.
 
 ## Table of Contents
 
