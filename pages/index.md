@@ -1,5 +1,5 @@
 
-# Welcome to my `projects` 📐
+# Welcome to `my projects` 📐
 
 #### Repos, websites, documentation and anything else.
 
