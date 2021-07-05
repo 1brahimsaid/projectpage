@@ -25,23 +25,28 @@
   <img src="/img/system.jpeg"/>
 </p>
 
-1. **Entities** 
+#### 1. Entities
 
-**Products:** The resultant output of each workstation, in the defined problem. Three potential products exist (P1, P2, P3).** 
+**Products:** 
+> The resultant output of each workstation, in the defined problem. Three potential products exist (P1, P2, P3).** 
 
-**Components:** The building blocks of each product and the recipe of components for each individual product (P1, P2, P3) differs and production cannot occur without the required components (C1, C2, C3). The supply of components is unlimited and will not slow down the production process. 
+**Components:** 
+> The building blocks of each product and the recipe of components for each individual product (P1, P2, P3) differs and production cannot occur without the required components (C1, C2, C3). The supply of components is unlimited and will not slow down the production process. 
 
-**Inspectors:** Each component is inspected by two Inspectors, each responsible for their own set of components (Inspector 1 = C1, Inspector 2 = C2, C3).  The inspector is responsible for placing the components into the buffer zones adjacent to the workstations. 
+**Inspectors:**
+> Each component is inspected by two Inspectors, each responsible for their own set of components (Inspector 1 = C1, Inspector 2 = C2, C3).  The inspector is responsible for placing the components into the buffer zones adjacent to the workstations. 
 
-**Workstations:** This is where the components are assembled into products. Each product (P1, P2, P3) has a workstation associated with it (W1, W2, W3) where the respective product is assembled.**  
+**Workstations:**
+> This is where the components are assembled into products. Each product (P1, P2, P3) has a workstation associated with it (W1, W2, W3) where the respective product is assembled.**  
 
-**Buffer Zone:** The component queue for the workstations to produce products. Each workstation can only hold a maximum of two components each, a total of five buffer zones exists for each product (P1, P2, P3).** 
+**Buffer Zone:**
+> The component queue for the workstations to produce products. Each workstation can only hold a maximum of two components each, a total of five buffer zones exists for each product (P1, P2, P3).** 
 
-2. **Essential Features** 
+#### 2. Essential Features
 
 > The essential features of the system are the ones that limit the rate of production, which we will consider to be the inspectors, workstation, and buffer zones. The time each inspector takes to inspect each component is crucial, the differing times can change how we prioritize components for each workstation. However, while we consider the workstations as essential, they will only compose products at the rate defined in the data and can only be affected by the components supplied. No way exists to increase the rate the workstations process components other than supplying consistent assembly material. If the components are readily available in the buffer, the products will always be produced at the rate defined for each workstation. However, the processing times for each workstation are essential in the priority of component supply they will receive. Since the components are unlimited, we cannot consider it an essential feature or a bottleneck for the system, as it is readily available.  
 
-3. **Assumptions** 
+#### 3. Assumptions 
 
 > The first assumption of the system we make in order to simulate the system is the behaviour of Inspector 2. Since the Inspector 2 is responsible for two components, we expect the Inspector to select between Component 2 or 3 at random or some defined interval stated in the data set. Secondly, if the Inspector is blocked from placing components as the buffer zones are full, we reasonably expect Inspector 2 to move onto another component that is needed or if all buffer zones are filled hold onto the component without resuming a new inspection (this will apply to both inspectors).  
 
