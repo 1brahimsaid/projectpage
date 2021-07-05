@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-1. [Discuss Fantom Digital](https://discuss.fantom.digital/)
+1. [Discuss Fantom Digital](/discuss)
 2. [IMU Sports Monitor](/imudatalogger)
 3. [Simulation Study: Manufacturing Facility](/simulationstudy)
 4. [Chonker x86 Assembly Game](/chonker)
