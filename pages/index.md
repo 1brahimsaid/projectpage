@@ -7,10 +7,10 @@
 
 1. [Discuss Fantom Digital](https://discuss.fantom.digital/)
 2. [IMU Sports Monitor](/imudatalogger)
-3. Simulation Study: Manufacturing Facility
-4. Chonker x86 Assembly Game
-5. Flappy Bird with EMG-Controlled Mouse
-6. How to Create Your Own DC Motor
+3. [Simulation Study: Manufacturing Facility](/simulationstudy)
+4. [Chonker x86 Assembly Game](/chonker)
+5. [Flappy Bird with EMG-Controlled Mouse](/flappybird)
+6. [How to Create Your Own DC Motor](/simpledcmotor)
 
 ...or go back to [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/) or [`github/1brahimsaid`](https://github.com/1brahimsaid).
 
