@@ -37,3 +37,5 @@ rejection.
 - **Rectifier/Integrator** (EMG Signals are not Rythmic, Rectification and Integration is needed)
 - **Comparator** (A circuit that triggers when forearm intensity reaches threshold)
 - **Monostable** (Turns Comparator Signal into well-defined pulses or discrete values)
+
+...return to [`projects.ibrahimsaid.ca`](https://projects.ibrahimsaid.ca/) or [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/).

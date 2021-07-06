@@ -63,3 +63,5 @@ This repository contains all the information required to replicate and continue 
 <p align="center">
   <img src="/img/fritz.jpeg"/>
 </p>
+
+...return to [`projects.ibrahimsaid.ca`](https://projects.ibrahimsaid.ca/) or [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/).

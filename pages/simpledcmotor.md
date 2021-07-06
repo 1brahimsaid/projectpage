@@ -51,3 +51,5 @@ Motors convert electrical energy (from a voltage source) into mechanical energy.
 4. Assemble the **DC Motor**, use **paperclips** to prop up the rotor and attach the batteries to each end of the **paperclips**.
   1. Using thumbtacks, secure the **paperclips** to the wooden base. Secure one paperclip at each end of the **magnet**.
   2. Adjust the **magnet** and/or supports to get the **Motor** working.
+
+...return to [`projects.ibrahimsaid.ca`](https://projects.ibrahimsaid.ca/) or [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/).

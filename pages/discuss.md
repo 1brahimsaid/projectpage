@@ -19,3 +19,5 @@ Come check us [out](https://discuss.fantom.digital/)!
 <p align="center">
   <img src="/img/upgrade.jpeg"/>
 </p>
+
+...return to [`projects.ibrahimsaid.ca`](https://projects.ibrahimsaid.ca/) or [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/).
