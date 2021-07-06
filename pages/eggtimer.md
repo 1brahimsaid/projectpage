@@ -86,6 +86,6 @@ Table 2: Post-Implementation Resource Utilization
 
 # 7 – Conclusions (Lessons Learned)
 
-The Clocking Wizard IP can only produce a clock 5Mhz and nothing lower. In this design case, it would be easier to call on the same clock divider module twice to produce a 1 Hz clock. Initializing and preparing long if else chains are easier but require much more resources than simply behavioural code. Lab partners are not always the best and sometimes pandemics will force you to complete an entire lab yourself. 
+The Clocking Wizard IP can only produce a clock 5Mhz and nothing lower. In this design case, it would be easier to call on the same clock divider module twice to produce a 1 Hz clock. Initializing and preparing long `if else` chains are easier to code, but significantly more wasteful (on system resources) than behavioural code. 
 
 ...return to [`projects.ibrahimsaid.ca`](https://projects.ibrahimsaid.ca/) or [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/).
