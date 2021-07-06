@@ -8,9 +8,10 @@
 1. [Discuss.Fantom.Digital](/discuss)
 2. [IMU Sports Monitor](/imudatalogger)
 3. [Simulation Study: Manufacturing Facility](/simulationstudy)
-4. [Chonker x86 Assembly Game](/chonker)
-5. [Flappy Bird with EMG-Controlled Mouse](/flappybird)
-6. [How to Create Your Own DC Motor](/simpledcmotor)
+4. [Egg Timer FPGA Design](/eggtimer)
+5. [Chonker x86 Assembly Game](/chonker)
+6. [Flappy Bird with EMG-Controlled Mouse](/flappybird)
+7. [How to Create Your Own DC Motor](/simpledcmotor)
 
 ...or go back to [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/) or [`github/1brahimsaid`](https://github.com/1brahimsaid).
 
