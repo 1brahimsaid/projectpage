@@ -1,6 +1,6 @@
 # IMU Sports Monitor Repo 🏅
 
-## [Full Repo HERE](https://github.com/1brahimsaid)
+## [Full Repo HERE](https://github.com/1brahimsaid/imudatalogger)
 
 <p align="center">
   <img src="/img/Aspose.Words.683b0c1f-4907-4142-a98b-40bf5d2dcf74.002.jpeg"/>

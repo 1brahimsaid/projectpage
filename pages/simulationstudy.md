@@ -4,7 +4,7 @@
 
 **Date:** Finished April 11th, 2021
 
-## [Full Report and Simulink Files HERE](https://github.com/1brahimsaid)
+## [Full Report and Simulink Files HERE](https://github.com/1brahimsaid/simulationstudy)
 
 <p align="center">
   <img src="/img/model.jpeg"/>

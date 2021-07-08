@@ -32,6 +32,8 @@ Not all coding is fun and cool, here is a clip of this game failing 😂. The re
 
 > _Click to Proceed to the Video_
 
+I posted the full code here so you can gawk at the difficulty and confusion! But you can view it [here](https://github.com/1brahimsaid/chonker)!
+
 # Full Code
 
 ```asm
