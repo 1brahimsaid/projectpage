@@ -53,14 +53,14 @@ If called upon by the top module (if timerenable is 1), the 7-segment display wi
 
 # 5 - Verilog/Software Code
 
-Here is a link to the code on my github [here](https://github.com/1brahimsaid).
+Here is a link to the code on my github [here](https://github.com/1brahimsaid/eggtimer).
 
 # 6 – Verification
 The design was tested and simulated using a manufactured test bench. Doing so proved that the design would work without using an FPGA.
 
 ## 6.1 Test Benches 
 
-Here is a link to the test bench code on my github [here](https://github.com/1brahimsaid).
+Here is a link to the test bench code on my github [here](https://github.com/1brahimsaid/eggtimer).
 
 ## 6.2 Simulations
 

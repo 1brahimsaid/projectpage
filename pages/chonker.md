@@ -1,5 +1,7 @@
 # Chonker x86 Game 🐹
 
+## [REPO HERE](https://github.com/1brahimsaid/chonker)
+
 <p align="center">
   <img src="/img/chonker.jpeg"/>
 </p>
@@ -32,7 +34,9 @@ Not all coding is fun and cool, here is a clip of this game failing 😂. The re
 
 > _Click to Proceed to the Video_
 
-I posted the full code here so you can gawk at the difficulty and confusion! But you can view it [here](https://github.com/1brahimsaid/chonker)!
+Full code below! But you can also view it [here](https://github.com/1brahimsaid/chonker)!
+
+...return to [`projects.ibrahimsaid.ca`](https://projects.ibrahimsaid.ca/) or [`ibrahimsaid.ca`](https://www.ibrahimsaid.ca/).
 
 # Full Code
 
